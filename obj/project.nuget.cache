@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMFSRR+woDKI2k1FXSsza+JXwWjrqtZKvFENHF252j2u10cZslUQSxC+37OfWKV9K43tXrLH3LEOJNzf0FWf5w==",
+  "success": true,
+  "projectFilePath": "C:\\Всё\\My Work Space\\finance-web-api\\BonusHomeworkPatternShonhodoevBayan972102\\BonusHomeworkPatternShonhodoevBayan972102\\BonusHomeworkPatternShonhodoevBayan972102.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nia477\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nia477\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
